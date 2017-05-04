@@ -1,4 +1,4 @@
-Luke is **awesome**
+Luke is **awesome**!
 
 - He had red hair
 - He has blue eyes

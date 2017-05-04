@@ -4,6 +4,7 @@ Luke is **awesome**!
 - He has blue/green eyes
 - He is short, but tall on personality
 
+## Luke is silly
 Luke also loves to plug his nose and make funny sounds, as shown below. He thought this was hilarious!
 
 ![Luke is cute](MakingFunnySounds.jpg)

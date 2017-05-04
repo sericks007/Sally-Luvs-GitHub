@@ -1,4 +1,4 @@
-Luke is **awesome**!
+## Luke is awesome!
 
 - He has red hair
 - He has blue/green eyes
